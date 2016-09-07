@@ -1,0 +1,26 @@
+{
+  "data": [
+  {
+    "title": "non mollit veniam ex",
+    "description": "minim ad et minim ipsum duis irure pariatur deserunt eu cillum anim ipsum velit tempor eu pariatur sunt mollit tempor ut tempor exercitation occaecat ad et veniam et excepteur velit esse eu et ut ipsum consectetur aliquip do quis voluptate cupidatat eu ut consequat adipisicing occaecat adipisicing proident laborum laboris deserunt in laborum est anim ad non",
+    "image": "http://placehold.it/32x32",
+    "salePrice": null,
+    "price": "$184.06",
+    "guid": "f78e1c4d-93c5-4b92-ae47-7ea26be48c7c",
+    "aisle" "b2"
+    "index": 0,
+    "_id": "548917fabeb9b0cadc529af3"
+    },
+    {
+    "title": "non mollit veniam ex",
+    "description": "minim ad et minim ipsum duis irure pariatur deserunt eu cillum anim ipsum velit tempor eu pariatur sunt mollit tempor ut tempor exercitation occaecat ad et veniam et excepteur velit esse eu et ut ipsum consectetur aliquip do quis voluptate cupidatat eu ut consequat adipisicing occaecat adipisicing proident laborum laboris deserunt in laborum est anim ad non",
+    "image": "http://placehold.it/32x32",
+    "salePrice": null,
+    "price": "$187.06",
+    "guid": "f78e1c4d-93c5-4b92-ae47-7ea26be48c7c",
+    "aisle" "b3"
+    "index": 0,
+    "_id": "548917fabeb9b0cadc529af3"
+    }
+  ]
+}
