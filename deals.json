@@ -7,7 +7,7 @@
     "salePrice": null,
     "price": "$184.06",
     "guid": "f78e1c4d-93c5-4b92-ae47-7ea26be48c7c",
-    "aisle": "b2"
+    "aisle": "b2",
     "index": 0,
     "_id": "548917fabeb9b0cadc529af3"
     },
@@ -18,7 +18,7 @@
     "salePrice": null,
     "price": "$187.06",
     "guid": "f78e1c4d-93c5-4b92-ae47-7ea26be48c7c",
-    "aisle": "b3"
+    "aisle": "b3",
     "index": 0,
     "_id": "548917fabeb9b0cadc529af3"
     }
